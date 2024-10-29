@@ -1,0 +1,22 @@
+Start sniff Ethernet frames.....
+
+
+ ====Ethernet Frame====
+----------------------------------------
+| Source MAC adreess:            | 00:00:00:00:00:00  (6 bytes)  |
+| Destination MAC adreess:       | 00:00:00:00:00:00  (6 bytes)  |
+| Protocol type:                 | 2048 (0x800)    (2 bytes) |
+| Data field:                    | b'E\x00\x00(\x96\xc3@\x00\x80\x06\xbc\x82\xc0\xa8\x01d@\xe9\xa4\x94\xf0\x1e\x01\xbb:\xaaw\x96\x07d?\xe6P\x14\x00\x00\x1c\xe2\x00\x00'  40   bytes  |
+| Checksum (CRC):                | b'\x00\x00\x00\x00'  (4 bytes)  |
+| Ethernet header size:          | 54  bytes  |
+----------------------------------------
+
+ ====Ethernet Frame====
+----------------------------------------
+| Source MAC adreess:            | 00:00:00:00:00:00  (6 bytes)  |
+| Destination MAC adreess:       | 00:00:00:00:00:00  (6 bytes)  |
+| Protocol type:                 | 2048 (0x800)    (2 bytes) |
+| Data field:                    | b"E\x00\x004\x96\xc4@\x00\x80\x06\xbcu\xc0\xa8\x01d@\xe9\xa4\x94\xf0C\x01\xbb\x12'\x9f\xf5\x00\x00\x00\x00\x80\x02\xfa\xf0(z\x00\x00\x02\x04\x05\xb4\x01\x03\x03\x08\x01\x01\x04\x02"  52   bytes  |
+| Checksum (CRC):                | b'\x00\x00\x00\x00'  (4 bytes)  |
+| Ethernet header size:          | 66  bytes  |
+----------------------------------------
