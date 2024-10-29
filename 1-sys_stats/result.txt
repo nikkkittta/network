@@ -1,0 +1,39 @@
+Интерфейс: Loopback Pseudo-Interface 1
+  Активен: True
+  Скорость:  1073 Мбит/с
+  Duplex mode: Duplex
+  MTU: 1500
+
+Интерфейс: OpenVPN Wintun
+  Активен: False
+  Скорость:  4294 Мбит/с
+  Duplex mode: Duplex
+  MTU: 65535
+
+Интерфейс: OpenVPN TAP-Windows6
+  Активен: False
+  Скорость:  1000 Мбит/с
+  Duplex mode: Duplex
+  MTU: 1500
+
+Интерфейс: OpenVPN Data Channel Offload
+  Активен: False
+  Скорость:  1000 Мбит/с
+  Duplex mode: Duplex
+  MTU: 1500
+
+Интерфейс: Беспроводная сеть
+  Активен: True
+  Скорость:  300 Мбит/с
+  Duplex mode: Duplex
+  MTU: 1500
+
+Интерфейс: Подключение по локальной сети* 9
+  Скорость:  0 Мбит/с
+  Duplex mode: Duplex
+
+Интерфейс: Подключение по локальной сети* 10
+  Активен: False
+Скорость:  0 Мбит/с
+Duplex mode: Duplex
+ MTU: 1500
