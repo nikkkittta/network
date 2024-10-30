@@ -1,0 +1,5 @@
+Enter the datagram (or 'exit' for exit) 23456787ijnfg
+Server reply:  Datagram '23456787ijnfg' received
+Enter the datagram (or 'exit' for exit) 3te4y567i8o7y8puiok;rlmf,wa vmdsbcgzhu
+Server reply:  Datagram '3te4y567i8o7y8puiok;rlmf,wa vmdsbcgzhu' received
+Enter the datagram (or 'exit' for exit) 

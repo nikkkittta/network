@@ -1,0 +1,3 @@
+UDP server starts. Waiting datagrams...
+Received datagram from ('127.0.0.1', 55247) : 23456787ijnfg
+Received datagram from ('127.0.0.1', 55247) : 3te4y567i8o7y8puiok;rlmf,wa vmdsbcgzhu
