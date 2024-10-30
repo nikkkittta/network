@@ -1,0 +1,31 @@
+Start sniffing package...
+
+=====IPv4 packet=====
+----------------------------------------    
+| Version:                       | 4 (IPv4) 
+| Длина заголовка:               | 20 байт  
+| Тип обслуживания:              | 0        
+| Packet lenght:                 | 55 байт  
+| Identification                 | 11064    
+| Flags:                         | DF       
+| Смещение фрагмента:            | 0        
+| TTL :                          | 128
+| Protocol:                      | 6 (0x6)
+| Checksum:                      | 31949
+| Source IPv4:                   | 000
+| Destination IPv4:              | 142.251.1.194
+
+=====IPv4 packet=====
+----------------------------------------
+| Version:                       | 4 (IPv4)
+| Длина заголовка:               | 20 байт
+| Тип обслуживания:              | 0
+| Packet lenght:                 | 66 байт
+| Identification                 | 39609
+| Flags:                         |
+| Смещение фрагмента:            | 0
+| TTL :                          | 122
+| Protocol:                      | 6 (0x6)
+| Checksum:                      | 21313
+| Source IPv4:                   | 142.251.1.194
+| Destination IPv4:              | 000
