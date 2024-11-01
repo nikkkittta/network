@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+service SessionMessage{
+    rpc StartSession (SessionRequest) returns (SessionResponse);
+
+    rpc EndSession (SessionRequest) returns (SessionResponse);
+}
+
+message SessionRequest{
+    string session_id = 1;
+}
+
+message SessionResponse{
+    string message = 1;
+}
